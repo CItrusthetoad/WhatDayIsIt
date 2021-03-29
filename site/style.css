@@ -1,0 +1,18 @@
+h3 {
+    color: rgb(214, 214, 214);
+    font-family: 'Arial';
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 0;
+    color: rgb(214, 214, 214);
+    font-family: 'Arial';
+    text-align: center;
+    font-size: 150px;
+    padding-bottom: 50px;
+}
+
+body {
+    background-color: rgb(38, 43, 48);
+}
